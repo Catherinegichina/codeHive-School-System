@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-5xh*9=9rel^o5@b)uc!ab&26aj$64c2ras1(zehakmci28bqmz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0','localhost','127.0.0.1','catherinegichinaschoolsystem.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -87,8 +87,8 @@ DATABASES = {
         'NAME': 'schoolsystem',
         'USER': 'catherine',
         'PASSWORD': 'kabura..79',
-        'HOST': '127.0.0.1',
-        'PORT': '5432',
+        'HOST': 'localhost',
+        'PORT': '',
     }
 }
 
