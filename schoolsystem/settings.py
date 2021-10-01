@@ -87,7 +87,7 @@ DATABASES = {
         'NAME': 'schoolsystem',
         'USER': 'catherine',
         'PASSWORD': 'kabura..79',
-        'HOST': 'localhost',
+        'HOST': '127.0.0.1',
         'PORT': '',
     }
 }
