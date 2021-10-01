@@ -1,4 +1,3 @@
-
 from django import forms
 from django.forms.widgets import EmailInput, FileInput, TextInput
 from.models import Courses
