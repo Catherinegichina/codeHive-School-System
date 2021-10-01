@@ -10,7 +10,7 @@
 <style>
 body{
     background-image: url("https://uploads-ssl.webflow.com/5e72ed345a0058a3332497f7/5eb9c614ce4ca10ba96f88b2_BUilt%20In%20Africa%20Articel.jpg");
-    margin-left: 300px;
+    margin-left: 301px;
     height:50%;
     width:80%;
     position: fixed;
